@@ -8,4 +8,14 @@ Text-to-speech synthesis has achieved near-human quality in neutral speech, but 
 
 ## Installation
 
-【安装环境的脚本】
+```bash
+conda env create -f qwen_audio_environment.yml
+```
+
+## data
+
+We have provided the data that will be used, stored in the **data** folder.
+
+## main
+
+You can also use the training script we provide to perform the training.
