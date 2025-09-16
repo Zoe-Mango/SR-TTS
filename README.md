@@ -9,7 +9,7 @@ Text-to-speech synthesis has achieved near-human quality in neutral speech, but 
 ## Installation
 
 ```bash
-conda env create -f qwen_audio_environment.yml
+conda env create -f srtts-environment.yml
 ```
 
 ## data
